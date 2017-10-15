@@ -1,0 +1,7 @@
+D:\Training\CSharp\TPL\BasicWeatherService\BasicWeatherProgramUnitTests\bin\Debug\BasicWeatherProgramUnitTests.dll
+D:\Training\CSharp\TPL\BasicWeatherService\BasicWeatherProgramUnitTests\bin\Debug\BasicWeatherProgramUnitTests.pdb
+D:\Training\CSharp\TPL\BasicWeatherService\BasicWeatherProgramUnitTests\bin\Debug\BasicWeatherProgram.exe
+D:\Training\CSharp\TPL\BasicWeatherService\BasicWeatherProgramUnitTests\bin\Debug\BasicWeatherProgram.pdb
+D:\Training\CSharp\TPL\BasicWeatherService\BasicWeatherProgramUnitTests\obj\Debug\BasicWeatherProgramUnitTests.csprojResolveAssemblyReference.cache
+D:\Training\CSharp\TPL\BasicWeatherService\BasicWeatherProgramUnitTests\obj\Debug\BasicWeatherProgramUnitTests.dll
+D:\Training\CSharp\TPL\BasicWeatherService\BasicWeatherProgramUnitTests\obj\Debug\BasicWeatherProgramUnitTests.pdb

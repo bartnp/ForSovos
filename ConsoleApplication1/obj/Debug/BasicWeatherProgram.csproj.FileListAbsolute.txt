@@ -1,0 +1,6 @@
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\bin\Debug\BasicWeatherProgram.exe.config
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\bin\Debug\BasicWeatherProgram.exe
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\bin\Debug\BasicWeatherProgram.pdb
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\obj\Debug\BasicWeatherProgram.exe
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\obj\Debug\BasicWeatherProgram.pdb
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\obj\Debug\BasicWeatherProgram.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Training\CSharp\TPL\BasicWeatherService\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
